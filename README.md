@@ -1,3 +1,7 @@
+
+<h2> Dashboard Power BI </h2>
+https://app.powerbi.com/view?r=eyJrIjoiNzY5YWEzNzMtYzBlZC00N2Y2LWIwYTktNjg2NTJiNTE2YzA4IiwidCI6ImY5NGJmNGQ5LTgwOTctNDc5NC1hZGY2LWE1NDY2Y2EyODU2MyIsImMiOjR9
+
 <h1>Modelo de Análisis Periódico de Contratos.</h1>
 
 <h2> Funcionamiento </h2>
