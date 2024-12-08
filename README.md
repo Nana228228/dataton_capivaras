@@ -108,6 +108,6 @@ else:
 ```
 <h2>Salida </h2>
 
-<img src="Captura de Tela 2024-12-08 às 17.13.18.png" alt="Descrição da imagem" style="max-width:100%; height:auto;">)
-<img src="Captura de Tela 2024-12-08 às 17.13.50.png" alt="Descrição da imagem" style="max-width:100%; height:auto;">)
+<img src="Captura de Tela 2024-12-08 às 17.13.18.png" alt="Descrição da imagem" style="max-width:100%; height:auto;">
+<img src="Captura de Tela 2024-12-08 às 17.13.50.png" alt="Descrição da imagem" style="max-width:100%; height:auto;">
 
